@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  background-color: #B0C098; 
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  color: #797C74;
+}
+
+li{
+  list-style: none;
+  display: inline-block;
+  color: #797C74;
+  padding-left: 1%;
+  padding-right: 1%;
+  cursor: pointer;
+}
+
